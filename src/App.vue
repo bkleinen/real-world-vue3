@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">EventList</router-link> |
     <router-link to="/about">About</router-link>
   </div>
 <p>things that show on every page of the app could go here</p>
@@ -30,6 +30,6 @@
 }
 
 h4 {
-  font-size: 20 px
+  font-size: 20px
 }
 </style>
