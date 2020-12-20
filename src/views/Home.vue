@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="events">
     <img alt="Vue logo" src="../assets/logo.png" />
     <EventCard v-for="event in events" :key="event.id" :event="event" />
   </div>
@@ -55,3 +55,10 @@ export default {
   }
 };
 </script>
+<style scoped>
+.events{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+</style>
