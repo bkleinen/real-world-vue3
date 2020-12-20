@@ -1,5 +1,7 @@
 # real-world-vue3
 
+Using https://my-json-server.typicode.com/
+
 ## Project setup
 ```
 yarn install
