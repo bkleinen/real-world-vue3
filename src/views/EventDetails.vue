@@ -1,10 +1,11 @@
 <template>
-  <div>
+  <div v-if="event">
     <span></span>
     <h1>Event # {{ this.id }}: {{ event.title }}</h1>
     <p>{{ event.time }} on {{ event.date }} @ {{ event.location }}</p>
     <p>{{ event.description }}</p>
   </div>
+  <div v-else>loading...</div>
 </template>
 
 <script>
@@ -14,7 +15,7 @@ export default {
   props: ['id'],
   data() {
     return {
-      event: {  },
+      event: null,
     }
   },
   created(){
