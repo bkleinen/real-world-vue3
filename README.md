@@ -1,6 +1,13 @@
 # real-world-vue3
 
-Using https://my-json-server.typicode.com/
+## MyJSON-Server
+
+Mock JSON Server for Development.
+
+* [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
+* db.json is the initial data
+* access it via [https://my-json-server.typicode.com/bkleinen/vue-learning](https://my-json-server.typicode.com/bkleinen/vue-learning)
+
 
 ## Project setup
 ```
