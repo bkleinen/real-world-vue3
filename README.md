@@ -6,8 +6,8 @@ Mock JSON Server for Development.
 
 * [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
 * db.json is the initial data
-* access it via [https://my-json-server.typicode.com/bkleinen/vue-learning](https://my-json-server.typicode.com/bkleinen/vue-learning)
-
+* access it via [https://my-json-server.typicode.com/bkleinen/real-world-vue3](https://my-json-server.typicode.com/bkleinen/real-world-vue3)
+* Deployed app on render.com: [https://real-world-vue3-bk.onrender.com/](https://real-world-vue3-bk.onrender.com/)
 
 ## Project setup
 ```
