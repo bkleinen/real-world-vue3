@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">EventList</router-link> |
+    <router-link to="/">Events</router-link> |
     <router-link to="/about">About</router-link>
   </div>
 <p>things that show on every page of the app could go here</p>
